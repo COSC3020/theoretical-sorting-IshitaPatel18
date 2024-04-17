@@ -44,3 +44,5 @@ disprove this would be for a thorough source code analysis, otherwise, $O(n)$ is
 Therefore, the Computer Science researcher that claims to have come up with a sorting algorithm
 that can sort arbitrary elements in $O(n)$ time based on comparisons of two elements at a time
 would not be correct based on the n*log(n) time complexity for any comparison based sorting algorithm. 
+
+Sources: Slide 45 from the sorting powerpoint slides.
